@@ -4,6 +4,6 @@
 # Prática - Comunicação serial entre 2 Arduinos
 ## Integrantes: 
 ### Daniel Bruno Azevedo Santos
-### Douglas
+### Francisco Douglas Marques de Medeiros
 
 
