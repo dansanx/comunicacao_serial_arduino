@@ -2,7 +2,7 @@
 ### Prof: Leonardo Augusto
 
 ## **Prática - Comunicação serial entre 2 Arduinos**
-## Integrantes: 
+### Integrantes: 
 ### Daniel Bruno Azevedo Santos
 ### Francisco Douglas Marques de Medeiros
 
